@@ -1,1 +1,1 @@
-Java DDBC apps
+Java JDBC apps
